@@ -4,50 +4,29 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f8f7f4">
-  <meta name="description" content="Browse our available 3D printing filament colors and materials.">
-  <title>Filament Library · Color & Material Catalog</title>
+  <meta name="description" content="KC's collection of 3D printing filament. Colors and weights displayed are approximate. Want to try out or trade a spool? Feel free to ask!">
+  <title>Filament Library</title>
   <link rel="stylesheet" href="styles.css">
   <script src="app.js" defer></script>
 </head>
 <body>
   <header class="topbar">
     <div class="shell topbar-inner">
-      <div class="brandmark" aria-hidden="true"><span class="spoolmark"></span></div>
       <div class="brand-title">FILAMENT <span>LIBRARY</span></div>
-      <div class="topbar-right">A collection of colors, ready to print <span class="dot"></span></div>
+      <div class="topbar-right">Public read-only catalog <span class="dot"></span></div>
     </div>
   </header>
-  <main class="shell">
-    <section class="hero" aria-labelledby="hero-title">
-      <div class="hero-content">
-        <p class="eyebrow">THE MATERIAL PALETTE</p>
-        <h1 id="hero-title">Find your <em>color.</em><br>Make something great.</h1>
-        <p class="hero-subtitle">Browse available filament shades, finishes, and materials for your next 3D-printed idea.</p>
-        <div class="hero-stats" aria-live="polite">
-          <div><strong id="hero-count">—</strong><span>filament spools</span></div>
-          <div class="hero-stat-separator"></div>
-          <div><strong id="hero-brands">—</strong><span>brands</span></div>
-          <div class="hero-stat-separator"></div>
-          <div><strong id="hero-materials">—</strong><span>materials</span></div>
-        </div>
-      </div>
-      <div class="hero-art" aria-hidden="true">
-        <div class="hero-art-blob"></div>
-        <div class="hero-disc hero-disc-one"></div>
-        <div class="hero-disc hero-disc-two"></div>
-        <div class="hero-disc hero-disc-three"></div>
-        <div class="hero-art-note">COLOR IS JUST THE BEGINNING <span>↗</span></div>
-      </div>
-    </section>
 
+  <main class="shell compact-main">
     <section class="catalog" aria-labelledby="catalog-title">
       <div class="section-heading">
         <div>
-          <p class="eyebrow">THE COLLECTION</p>
-          <h2 id="catalog-title">Browse filaments<span class="period">.</span></h2>
+          <h1 id="catalog-title">Browse Filaments</h1>
+          <p class="section-subtitle">KC's collection of 3D printing filament. Colors and weights displayed are approximate. Want to try out or trade a spool? Feel free to ask!</p>
         </div>
         <div class="update-meta"><span class="signal" aria-hidden="true"></span><span id="updated-at">Reading catalog…</span></div>
       </div>
+
       <div class="controls" aria-label="Catalog filters">
         <label class="search-field">
           <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m16 16 5 5"></path></svg>
@@ -55,20 +34,24 @@
           <input id="search" type="search" placeholder="Search color, brand, or material…" autocomplete="off">
         </label>
         <div class="selectors">
-          <label><span>Material</span><select id="material-filter"><option value="all">All materials</option></select></label>
           <label><span>Brand</span><select id="brand-filter"><option value="all">All brands</option></select></label>
           <label><span>Availability</span><select id="stock-filter"><option value="all">All stock levels</option><option value="available">Available</option><option value="limited">Limited</option><option value="nearly-empty">Almost empty</option><option value="unavailable">Unavailable</option><option value="unknown">Unknown</option></select></label>
         </div>
       </div>
-      <div class="catalog-meta"><span id="results-count">Loading…</span><button id="reset-filters" type="button">Clear filters <span aria-hidden="true">↗</span></button></div>
-      <div id="catalog-grid" class="catalog-grid" aria-live="polite"><div class="loading">Loading the palette…</div></div>
+
+      <div class="catalog-meta"><span id="results-count">Loading…</span><button id="reset-filters" type="button">Clear filters</button></div>
+      <div id="catalog-sections" class="catalog-sections" aria-live="polite"><div class="loading">Loading catalog…</div></div>
       <div id="empty-state" class="empty-state" hidden>
         <div class="empty-icon" aria-hidden="true">◌</div>
-        <h3>No matching filaments</h3><p>Try another search, material, or brand.</p>
-        <button id="empty-reset" type="button">Show all colors</button>
+        <h3>No matching filaments</h3><p>Try another search or brand filter.</p>
+        <button id="empty-reset" type="button">Show all filaments</button>
       </div>
     </section>
-    <footer class="footer"><div><strong>FILAMENT LIBRARY</strong><p>Colors shown are approximations. Stock availability may change as prints are completed.</p></div><div class="footer-last">Made for curious makers <span aria-hidden="true">✳</span></div></footer>
+
+    <footer class="footer">
+      <div><strong>FILAMENT LIBRARY</strong><p>Color and weight estimates are updated periodically from Spoolman. Availability may change as prints are completed.</p></div>
+      <div class="footer-last">Updated automatically from Spoolman</div>
+    </footer>
   </main>
 </body>
 </html>
