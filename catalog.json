@@ -1,0 +1,342 @@
+{
+  "spool_count": 48,
+  "items": [
+    {
+      "name": "Blue",
+      "brand": "Anycubic",
+      "material": "PLA",
+      "color": "#3B42D4",
+      "status": "available"
+    },
+    {
+      "name": "Green",
+      "brand": "Anycubic",
+      "material": "PLA",
+      "color": "#1CC852",
+      "status": "available"
+    },
+    {
+      "name": "Red",
+      "brand": "Anycubic",
+      "material": "PLA",
+      "color": "#CB3D49",
+      "status": "available"
+    },
+    {
+      "name": "White",
+      "brand": "Anycubic",
+      "material": "PLA",
+      "color": "#E0E4DF",
+      "status": "available"
+    },
+    {
+      "name": "Beige",
+      "brand": "Elegoo",
+      "material": "PLA",
+      "color": "#E0C8A7",
+      "status": "available"
+    },
+    {
+      "name": "Cyan",
+      "brand": "Elegoo",
+      "material": "PLA",
+      "color": "#40B1FD",
+      "status": "available"
+    },
+    {
+      "name": "Green",
+      "brand": "Elegoo",
+      "material": "PLA",
+      "color": "#44ED7C",
+      "status": "available"
+    },
+    {
+      "name": "Magenta",
+      "brand": "Elegoo",
+      "material": "PLA",
+      "color": "#E45896",
+      "status": "available"
+    },
+    {
+      "name": "Orange",
+      "brand": "Elegoo",
+      "material": "PLA",
+      "color": "#F2984F",
+      "status": "available"
+    },
+    {
+      "name": "Pink",
+      "brand": "Elegoo",
+      "material": "PLA",
+      "color": "#F5AFC3",
+      "status": "available"
+    },
+    {
+      "name": "Translucent",
+      "brand": "Elegoo",
+      "material": "PLA",
+      "color": "#D1D1D1",
+      "status": "available"
+    },
+    {
+      "name": "White",
+      "brand": "Elegoo",
+      "material": "PLA",
+      "color": "#FCFAE7",
+      "status": "available"
+    },
+    {
+      "name": "Yellow",
+      "brand": "Elegoo",
+      "material": "PLA",
+      "color": "#FBEA34",
+      "status": "available"
+    },
+    {
+      "name": "Glow",
+      "brand": "Hatchbox",
+      "material": "PLA",
+      "color": "#C4F4BE",
+      "status": "available"
+    },
+    {
+      "name": "Hatchbox Black",
+      "brand": "Hatchbox",
+      "material": "PLA",
+      "color": "#000000",
+      "status": "available"
+    },
+    {
+      "name": "Army Green",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#203E2C",
+      "status": "available"
+    },
+    {
+      "name": "Black",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#000000",
+      "status": "available"
+    },
+    {
+      "name": "Brown",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#94847A",
+      "status": "available"
+    },
+    {
+      "name": "Chocolate",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#604740",
+      "status": "available"
+    },
+    {
+      "name": "Gray",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#6A6868",
+      "status": "available"
+    },
+    {
+      "name": "Navy Blue",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#1D3255",
+      "status": "available"
+    },
+    {
+      "name": "Orange",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#F17619",
+      "status": "available"
+    },
+    {
+      "name": "Skin",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#ECDEBF",
+      "status": "available"
+    },
+    {
+      "name": "Sky Blue",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#96D5EE",
+      "status": "available"
+    },
+    {
+      "name": "Transparent",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#E8E8E8",
+      "status": "available"
+    },
+    {
+      "name": "White",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#FFFFFF",
+      "status": "available"
+    },
+    {
+      "name": "Yellow",
+      "brand": "iSanmate",
+      "material": "PETG",
+      "color": "#F8C951",
+      "status": "available"
+    },
+    {
+      "name": "Diamond White",
+      "brand": "IXCC",
+      "material": "PLA",
+      "color": "#FFFFFF",
+      "status": "available"
+    },
+    {
+      "name": "Black",
+      "brand": "Kingroon",
+      "material": "PETG",
+      "color": "#000000",
+      "status": "available"
+    },
+    {
+      "name": "Dark Blue",
+      "brand": "Kingroon",
+      "material": "PETG",
+      "color": "#0C2D7B",
+      "status": "available"
+    },
+    {
+      "name": "Gray",
+      "brand": "Kingroon",
+      "material": "PETG",
+      "color": "#767C82",
+      "status": "available"
+    },
+    {
+      "name": "Green",
+      "brand": "Kingroon",
+      "material": "PETG",
+      "color": "#3ECA76",
+      "status": "available"
+    },
+    {
+      "name": "Metallic Silver",
+      "brand": "Kingroon",
+      "material": "PETG",
+      "color": "#ADADAD",
+      "status": "available"
+    },
+    {
+      "name": "Orange",
+      "brand": "Kingroon",
+      "material": "PETG",
+      "color": "#C37C1E",
+      "status": "available"
+    },
+    {
+      "name": "Red",
+      "brand": "Kingroon",
+      "material": "PETG",
+      "color": "#FF0000",
+      "status": "available"
+    },
+    {
+      "name": "Transparent",
+      "brand": "Kingroon",
+      "material": "PETG",
+      "color": "#AEADAD",
+      "status": "available"
+    },
+    {
+      "name": "White",
+      "brand": "Kingroon",
+      "material": "PETG",
+      "color": "#FFFFFF",
+      "status": "available"
+    },
+    {
+      "name": "Yellow",
+      "brand": "Kingroon",
+      "material": "PETG",
+      "color": "#DFAF05",
+      "status": "available"
+    },
+    {
+      "name": "Light Blue Glitter",
+      "brand": "Make Market",
+      "material": "PLA",
+      "color": "#59A8F8",
+      "status": "available"
+    },
+    {
+      "name": "Purple",
+      "brand": "Make Market",
+      "material": "PLA",
+      "color": "#A150F2",
+      "status": "available"
+    },
+    {
+      "name": "White Marble",
+      "brand": "Make Market",
+      "material": "PLA",
+      "color": "#E8E8E8",
+      "status": "available"
+    },
+    {
+      "name": "SnapSpeed Black",
+      "brand": "Snapmaker",
+      "material": "PLA",
+      "color": "#080A0D",
+      "status": "available"
+    },
+    {
+      "name": "SnapSpeed Red",
+      "brand": "Snapmaker",
+      "material": "PLA",
+      "color": "#E72F1D",
+      "status": "available"
+    },
+    {
+      "name": "SnapSpeed Yellow",
+      "brand": "Snapmaker",
+      "material": "PLA",
+      "color": "#F4C032",
+      "status": "available"
+    },
+    {
+      "name": "Light Gold",
+      "brand": "Sunlu",
+      "material": "PLA",
+      "color": "#D3943D",
+      "status": "available"
+    },
+    {
+      "name": "Silk Blue",
+      "brand": "Sunlu",
+      "material": "PLA",
+      "color": "#33ACD4",
+      "status": "available"
+    },
+    {
+      "name": "Silk Green",
+      "brand": "Sunlu",
+      "material": "PLA",
+      "color": "#34C0A5",
+      "status": "available"
+    },
+    {
+      "name": "Silky Silver",
+      "brand": "Sunlu",
+      "material": "PLA",
+      "color": "#C6CBD0",
+      "status": "available"
+    }
+  ],
+  "generated_at": "2026-11-01T07:38:09Z"
+}
