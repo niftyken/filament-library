@@ -5,14 +5,12 @@ const elements = {
   empty: $('empty-state'),
   search: $('search'),
   brand: $('brand-filter'),
-  stock: $('stock-filter'),
   count: $('results-count'),
   updated: $('updated-at')
 };
 let items = [];
 const MATERIAL_ORDER = ['PLA', 'PETG'];
-const FAMILY_ORDER = ['Black & Gray', 'White & Clear', 'Brown & Beige', 'Red & Pink', 'Orange & Yellow', 'Green', 'Blue & Purple', 'Other'];
-const stockText = {available:'Available', limited:'Limited', 'nearly-empty':'Almost empty', unavailable:'Unavailable', unknown:'Ask first'};
+const FAMILY_ORDER = ['Red & Pink', 'Orange & Yellow', 'Green', 'Blue & Purple', 'Other', 'Brown & Beige', 'Black & Gray', 'White & Clear'];
 const cleanHex = (v) => /^#[0-9A-Fa-f]{6}$/.test(v || '') ? v.toUpperCase() : '#D9DFD7';
 const prettyTime = (v) => {
   if (!v) return 'Inventory not yet synchronized';
@@ -87,6 +85,19 @@ function hueSortValue(item) {
   if (item.colorFamily === 'Red & Pink') return h > 300 ? (h - 360) : h;
   return h + (1 - s) * 0.01 + l * 0.001;
 }
+// Repeat material on each card so the item is unambiguous when shared or copied.
+function displayName(item) {
+  const name = item.name.trim() || 'Unnamed color';
+  const material = item.material.trim();
+  if (!material || material.toLowerCase() === 'unknown') return name;
+  const tokens = name.toUpperCase().split(/[\s\-_/()]+/);
+  return tokens.includes(material.toUpperCase()) ? name : `${name} ${material}`;
+}
+function weightLabel(weight) {
+  return weight === null
+    ? 'Weight not recorded'
+    : `≈ ${new Intl.NumberFormat(undefined, {maximumFractionDigits:0}).format(weight)} g remaining`;
+}
 function card(item) {
   const article = document.createElement('article');
   article.className = 'tile';
@@ -103,21 +114,11 @@ function card(item) {
   brand.className = 'tile-kicker';
   brand.textContent = item.brand || 'Unbranded';
   const title = document.createElement('h3');
-  title.textContent = item.name || 'Unnamed color';
-  const bottom = document.createElement('div');
-  bottom.className = 'tile-bottom';
-  const weight = document.createElement('span');
+  title.textContent = displayName(item);
+  const weight = document.createElement('p');
   weight.className = 'weight-value';
-  weight.textContent = item.weight_g === null
-    ? 'Weight unknown'
-    : `≈ ${new Intl.NumberFormat(undefined, {maximumFractionDigits:0}).format(item.weight_g)} g`;
-  const status = document.createElement('span');
-  status.className = 'pill';
-  status.textContent = stockText[item.status] || 'Ask first';
-  if (item.status === 'limited' || item.status === 'nearly-empty') status.classList.add('low');
-  if (item.status === 'unavailable') status.classList.add('empty');
-  bottom.append(weight, status);
-  body.append(brand, title, bottom);
+  weight.textContent = weightLabel(item.weight_g);
+  body.append(brand, title, weight);
   article.append(swatch, body);
   return article;
 }
@@ -171,8 +172,7 @@ function render() {
   const filtered = items.filter(i => {
     const haystack = [i.name, i.brand, i.material, i.colorFamily].join(' ').toLowerCase();
     return (!q || haystack.includes(q))
-      && (elements.brand.value === 'all' || i.brand === elements.brand.value)
-      && (elements.stock.value === 'all' || i.status === elements.stock.value);
+      && (elements.brand.value === 'all' || i.brand === elements.brand.value);
   });
   elements.sections.replaceChildren();
   if (filtered.length) elements.sections.append(buildSections(filtered));
@@ -182,7 +182,6 @@ function render() {
 function reset() {
   elements.search.value='';
   elements.brand.value='all';
-  elements.stock.value='all';
   render();
 }
 async function load() {
@@ -196,7 +195,6 @@ async function load() {
       name: String(i.name || ''),
       material: String(i.material || ''),
       color: cleanHex(i.color),
-      status: String(i.status || 'unknown'),
       weight_g: Number.isFinite(i.weight_g) && i.weight_g >= 0 ? Math.round(i.weight_g) : null
     })).map(i => ({...i, colorFamily: classifyColorFamily(i)}));
     elements.updated.textContent = prettyTime(data.generated_at);
@@ -213,7 +211,7 @@ async function load() {
     console.error('Catalog fetch failed:', err);
   }
 }
-for (const el of [elements.search, elements.brand, elements.stock]) el.addEventListener('input', render);
+for (const el of [elements.search, elements.brand]) el.addEventListener('input', render);
 $('reset-filters').addEventListener('click', reset);
 $('empty-reset').addEventListener('click', reset);
 load();

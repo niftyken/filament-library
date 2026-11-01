@@ -6,7 +6,6 @@
       "brand": "Anycubic",
       "material": "PLA",
       "color": "#3B42D4",
-      "status": "available",
       "weight_g": 750
     },
     {
@@ -14,7 +13,6 @@
       "brand": "Anycubic",
       "material": "PLA",
       "color": "#1CC852",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -22,7 +20,6 @@
       "brand": "Anycubic",
       "material": "PLA",
       "color": "#CB3D49",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -30,7 +27,6 @@
       "brand": "Anycubic",
       "material": "PLA",
       "color": "#E0E4DF",
-      "status": "available",
       "weight_g": 867
     },
     {
@@ -38,7 +34,6 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#E0C8A7",
-      "status": "available",
       "weight_g": 960
     },
     {
@@ -46,7 +41,6 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#40B1FD",
-      "status": "available",
       "weight_g": 960
     },
     {
@@ -54,7 +48,6 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#44ED7C",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -62,7 +55,6 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#E45896",
-      "status": "available",
       "weight_g": 980
     },
     {
@@ -70,7 +62,6 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#F2984F",
-      "status": "available",
       "weight_g": 998
     },
     {
@@ -78,7 +69,6 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#F5AFC3",
-      "status": "available",
       "weight_g": 862
     },
     {
@@ -86,7 +76,6 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#D1D1D1",
-      "status": "available",
       "weight_g": 881
     },
     {
@@ -94,7 +83,6 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#FCFAE7",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -102,7 +90,6 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#FBEA34",
-      "status": "available",
       "weight_g": 846
     },
     {
@@ -110,7 +97,6 @@
       "brand": "Hatchbox",
       "material": "PLA",
       "color": "#C4F4BE",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -118,7 +104,6 @@
       "brand": "Hatchbox",
       "material": "PLA",
       "color": "#000000",
-      "status": "available",
       "weight_g": 400
     },
     {
@@ -126,7 +111,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#203E2C",
-      "status": "available",
       "weight_g": 864
     },
     {
@@ -134,7 +118,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#000000",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -142,7 +125,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#94847A",
-      "status": "available",
       "weight_g": 950
     },
     {
@@ -150,7 +132,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#604740",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -158,7 +139,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#6A6868",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -166,7 +146,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#1D3255",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -174,7 +153,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#F17619",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -182,7 +160,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#ECDEBF",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -190,7 +167,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#96D5EE",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -198,7 +174,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#E8E8E8",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -206,7 +181,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#FFFFFF",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -214,7 +188,6 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#F8C951",
-      "status": "available",
       "weight_g": 750
     },
     {
@@ -222,7 +195,6 @@
       "brand": "IXCC",
       "material": "PLA",
       "color": "#FFFFFF",
-      "status": "available",
       "weight_g": 864
     },
     {
@@ -230,7 +202,6 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#000000",
-      "status": "available",
       "weight_g": 500
     },
     {
@@ -238,7 +209,6 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#0C2D7B",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -246,7 +216,6 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#767C82",
-      "status": "available",
       "weight_g": 680
     },
     {
@@ -254,7 +223,6 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#3ECA76",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -262,7 +230,6 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#ADADAD",
-      "status": "available",
       "weight_g": 864
     },
     {
@@ -270,7 +237,6 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#C37C1E",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -278,7 +244,6 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#FF0000",
-      "status": "available",
       "weight_g": 400
     },
     {
@@ -286,7 +251,6 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#AEADAD",
-      "status": "available",
       "weight_g": 754
     },
     {
@@ -294,7 +258,6 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#FFFFFF",
-      "status": "available",
       "weight_g": 300
     },
     {
@@ -302,7 +265,6 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#DFAF05",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -310,7 +272,6 @@
       "brand": "Make Market",
       "material": "PLA",
       "color": "#59A8F8",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -318,7 +279,6 @@
       "brand": "Make Market",
       "material": "PLA",
       "color": "#A150F2",
-      "status": "available",
       "weight_g": 966
     },
     {
@@ -326,7 +286,6 @@
       "brand": "Make Market",
       "material": "PLA",
       "color": "#E8E8E8",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -334,7 +293,6 @@
       "brand": "Snapmaker",
       "material": "PLA",
       "color": "#080A0D",
-      "status": "available",
       "weight_g": 332
     },
     {
@@ -342,7 +300,6 @@
       "brand": "Snapmaker",
       "material": "PLA",
       "color": "#E72F1D",
-      "status": "available",
       "weight_g": 381
     },
     {
@@ -350,7 +307,6 @@
       "brand": "Snapmaker",
       "material": "PLA",
       "color": "#F4C032",
-      "status": "available",
       "weight_g": 400
     },
     {
@@ -358,7 +314,6 @@
       "brand": "Sunlu",
       "material": "PLA",
       "color": "#D3943D",
-      "status": "available",
       "weight_g": 950
     },
     {
@@ -366,7 +321,6 @@
       "brand": "Sunlu",
       "material": "PLA",
       "color": "#33ACD4",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -374,7 +328,6 @@
       "brand": "Sunlu",
       "material": "PLA",
       "color": "#34C0A5",
-      "status": "available",
       "weight_g": 1000
     },
     {
@@ -382,9 +335,8 @@
       "brand": "Sunlu",
       "material": "PLA",
       "color": "#C6CBD0",
-      "status": "available",
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-01T08:43:01Z"
+  "generated_at": "2026-11-01T09:01:43Z"
 }
