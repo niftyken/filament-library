@@ -125,7 +125,7 @@
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#94847A",
-      "weight_g": 950
+      "weight_g": 814
     },
     {
       "name": "Chocolate",
@@ -338,5 +338,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-01T09:01:43Z"
+  "generated_at": "2026-11-03T04:00:19Z"
 }
