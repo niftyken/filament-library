@@ -104,7 +104,7 @@
       "brand": "Hatchbox",
       "material": "PLA",
       "color": "#000000",
-      "weight_g": 348
+      "weight_g": 345
     },
     {
       "name": "Army Green",
@@ -251,7 +251,7 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#AEADAD",
-      "weight_g": 738
+      "weight_g": 737
     },
     {
       "name": "White",
@@ -338,5 +338,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-03T11:30:19Z"
+  "generated_at": "2026-11-03T12:00:19Z"
 }
