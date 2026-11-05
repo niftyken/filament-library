@@ -104,7 +104,7 @@
       "brand": "Hatchbox",
       "material": "PLA",
       "color": "#000000",
-      "weight_g": 301
+      "weight_g": 298
     },
     {
       "name": "Army Green",
@@ -338,5 +338,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-05T05:00:19Z"
+  "generated_at": "2026-11-05T07:30:11Z"
 }
