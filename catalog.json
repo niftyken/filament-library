@@ -34,7 +34,7 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#E0C8A7",
-      "weight_g": 933
+      "weight_g": 926
     },
     {
       "name": "Cyan",
@@ -195,7 +195,7 @@
       "brand": "IXCC",
       "material": "PLA",
       "color": "#FFFFFF",
-      "weight_g": 860
+      "weight_g": 859
     },
     {
       "name": "Black",
@@ -338,5 +338,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-05T02:30:19Z"
+  "generated_at": "2026-11-05T03:00:19Z"
 }
