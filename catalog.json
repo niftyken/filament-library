@@ -251,7 +251,7 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#AEADAD",
-      "weight_g": 457
+      "weight_g": 455
     },
     {
       "name": "White",
@@ -338,5 +338,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-05T20:30:19Z"
+  "generated_at": "2026-11-05T21:00:11Z"
 }
