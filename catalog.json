@@ -34,7 +34,7 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#E0C8A7",
-      "weight_g": 935
+      "weight_g": 933
     },
     {
       "name": "Cyan",
@@ -251,7 +251,7 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#AEADAD",
-      "weight_g": 595
+      "weight_g": 594
     },
     {
       "name": "White",
@@ -338,5 +338,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-04T20:30:19Z"
+  "generated_at": "2026-11-05T02:30:19Z"
 }
