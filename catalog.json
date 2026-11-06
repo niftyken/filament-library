@@ -1,5 +1,5 @@
 {
-  "spool_count": 48,
+  "spool_count": 58,
   "items": [
     {
       "name": "Blue",
@@ -205,6 +205,27 @@
       "weight_g": 500
     },
     {
+      "name": "Black",
+      "brand": "Kingroon",
+      "material": "PLA",
+      "color": "#000000",
+      "weight_g": 1000
+    },
+    {
+      "name": "Blue",
+      "brand": "Kingroon",
+      "material": "PLA",
+      "color": "#1020F4",
+      "weight_g": 1000
+    },
+    {
+      "name": "Brown",
+      "brand": "Kingroon",
+      "material": "PLA",
+      "color": "#D08401",
+      "weight_g": 1000
+    },
+    {
       "name": "Dark Blue",
       "brand": "Kingroon",
       "material": "PETG",
@@ -219,10 +240,24 @@
       "weight_g": 680
     },
     {
+      "name": "Gray",
+      "brand": "Kingroon",
+      "material": "PLA",
+      "color": "#8C8C8C",
+      "weight_g": 1000
+    },
+    {
       "name": "Green",
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#3ECA76",
+      "weight_g": 1000
+    },
+    {
+      "name": "Green",
+      "brand": "Kingroon",
+      "material": "PLA",
+      "color": "#03A300",
       "weight_g": 1000
     },
     {
@@ -240,11 +275,39 @@
       "weight_g": 1000
     },
     {
+      "name": "Orange",
+      "brand": "Kingroon",
+      "material": "PLA",
+      "color": "#E7A73A",
+      "weight_g": 1000
+    },
+    {
       "name": "Red",
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#FF0000",
       "weight_g": 400
+    },
+    {
+      "name": "Red",
+      "brand": "Kingroon",
+      "material": "PLA",
+      "color": "#E52A29",
+      "weight_g": 1000
+    },
+    {
+      "name": "Silver",
+      "brand": "Kingroon",
+      "material": "PLA",
+      "color": "#B8B8B8",
+      "weight_g": 1000
+    },
+    {
+      "name": "Skin",
+      "brand": "Kingroon",
+      "material": "PLA",
+      "color": "#CFA592",
+      "weight_g": 1000
     },
     {
       "name": "Transparent",
@@ -259,6 +322,13 @@
       "material": "PETG",
       "color": "#FFFFFF",
       "weight_g": 300
+    },
+    {
+      "name": "White",
+      "brand": "Kingroon",
+      "material": "PLA",
+      "color": "#FFFFFF",
+      "weight_g": 1000
     },
     {
       "name": "Yellow",
@@ -338,5 +408,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-05T21:00:11Z"
+  "generated_at": "2026-11-06T03:30:20Z"
 }
