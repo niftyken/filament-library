@@ -5,7 +5,7 @@
       "name": "Blue",
       "brand": "Anycubic",
       "material": "PLA",
-      "color": "#3B42D4",
+      "color": "#242796",
       "weight_g": 750
     },
     {
@@ -19,21 +19,21 @@
       "name": "Red",
       "brand": "Anycubic",
       "material": "PLA",
-      "color": "#CB3D49",
+      "color": "#CD3235",
       "weight_g": 1000
     },
     {
       "name": "White",
       "brand": "Anycubic",
       "material": "PLA",
-      "color": "#E0E4DF",
+      "color": "#FCFBFD",
       "weight_g": 867
     },
     {
       "name": "Beige",
       "brand": "Elegoo",
       "material": "PLA",
-      "color": "#E0C8A7",
+      "color": "#E0C9A6",
       "weight_g": 908
     },
     {
@@ -47,7 +47,7 @@
       "name": "Green",
       "brand": "Elegoo",
       "material": "PLA",
-      "color": "#44ED7C",
+      "color": "#46F07E",
       "weight_g": 1000
     },
     {
@@ -61,21 +61,21 @@
       "name": "Orange",
       "brand": "Elegoo",
       "material": "PLA",
-      "color": "#F2984F",
+      "color": "#F7AA5E",
       "weight_g": 998
     },
     {
       "name": "Pink",
       "brand": "Elegoo",
       "material": "PLA",
-      "color": "#F5AFC3",
+      "color": "#F7B2C3",
       "weight_g": 862
     },
     {
       "name": "Translucent",
       "brand": "Elegoo",
       "material": "PLA",
-      "color": "#D1D1D1",
+      "color": "#EBE9E8",
       "weight_g": 881
     },
     {
@@ -173,7 +173,7 @@
       "name": "Transparent",
       "brand": "iSanmate",
       "material": "PETG",
-      "color": "#E8E8E8",
+      "color": "#C5CCD8",
       "weight_g": 1000
     },
     {
@@ -215,14 +215,14 @@
       "name": "Blue",
       "brand": "Kingroon",
       "material": "PLA",
-      "color": "#1020F4",
+      "color": "#1B7BCD",
       "weight_g": 1000
     },
     {
       "name": "Brown",
       "brand": "Kingroon",
       "material": "PLA",
-      "color": "#D08401",
+      "color": "#D57631",
       "weight_g": 1000
     },
     {
@@ -243,7 +243,7 @@
       "name": "Gray",
       "brand": "Kingroon",
       "material": "PLA",
-      "color": "#8C8C8C",
+      "color": "#898988",
       "weight_g": 1000
     },
     {
@@ -257,7 +257,7 @@
       "name": "Green",
       "brand": "Kingroon",
       "material": "PLA",
-      "color": "#03A300",
+      "color": "#05BB69",
       "weight_g": 1000
     },
     {
@@ -299,7 +299,7 @@
       "name": "Silver",
       "brand": "Kingroon",
       "material": "PLA",
-      "color": "#B8B8B8",
+      "color": "#A8AEB2",
       "weight_g": 1000
     },
     {
@@ -383,30 +383,30 @@
       "name": "Light Gold",
       "brand": "Sunlu",
       "material": "PLA",
-      "color": "#D3943D",
+      "color": "#F7C441",
       "weight_g": 950
     },
     {
       "name": "Silk Blue",
       "brand": "Sunlu",
       "material": "PLA",
-      "color": "#33ACD4",
+      "color": "#33B3F4",
       "weight_g": 1000
     },
     {
       "name": "Silk Green",
       "brand": "Sunlu",
       "material": "PLA",
-      "color": "#34C0A5",
+      "color": "#30C6B5",
       "weight_g": 1000
     },
     {
       "name": "Silky Silver",
       "brand": "Sunlu",
       "material": "PLA",
-      "color": "#C6CBD0",
+      "color": "#D1E0F0",
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-06T03:30:20Z"
+  "generated_at": "2026-11-06T04:00:19Z"
 }
