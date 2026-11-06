@@ -13,14 +13,14 @@
       "brand": "Anycubic",
       "material": "PLA",
       "color": "#1CC852",
-      "weight_g": 1000
+      "weight_g": 990
     },
     {
       "name": "Red",
       "brand": "Anycubic",
       "material": "PLA",
       "color": "#CD3235",
-      "weight_g": 1000
+      "weight_g": 990
     },
     {
       "name": "White",
@@ -272,7 +272,7 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#C37C1E",
-      "weight_g": 1000
+      "weight_g": 990
     },
     {
       "name": "Orange",
@@ -408,5 +408,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-06T04:00:19Z"
+  "generated_at": "2026-11-06T06:30:19Z"
 }
