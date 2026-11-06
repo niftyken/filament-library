@@ -62,7 +62,7 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#F7AA5E",
-      "weight_g": 995
+      "weight_g": 992
     },
     {
       "name": "Pink",
@@ -377,7 +377,7 @@
       "brand": "Snapmaker",
       "material": "PLA",
       "color": "#F4C032",
-      "weight_g": 400
+      "weight_g": 397
     },
     {
       "name": "Light Gold",
@@ -408,5 +408,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-06T09:00:21Z"
+  "generated_at": "2026-11-06T09:30:19Z"
 }
