@@ -6,7 +6,7 @@
       "brand": "Anycubic",
       "material": "PLA",
       "color": "#242796",
-      "weight_g": 745
+      "weight_g": 744
     },
     {
       "name": "Green",
@@ -342,7 +342,7 @@
       "brand": "Make Market",
       "material": "PLA",
       "color": "#59A8F8",
-      "weight_g": 993
+      "weight_g": 992
     },
     {
       "name": "Purple",
@@ -408,5 +408,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-07T05:30:19Z"
+  "generated_at": "2026-11-07T06:00:19Z"
 }
