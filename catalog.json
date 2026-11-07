@@ -6,7 +6,7 @@
       "brand": "Anycubic",
       "material": "PLA",
       "color": "#242796",
-      "weight_g": 746
+      "weight_g": 745
     },
     {
       "name": "Green",
@@ -342,7 +342,7 @@
       "brand": "Make Market",
       "material": "PLA",
       "color": "#59A8F8",
-      "weight_g": 995
+      "weight_g": 993
     },
     {
       "name": "Purple",
@@ -391,7 +391,7 @@
       "brand": "Sunlu",
       "material": "PLA",
       "color": "#33B3F4",
-      "weight_g": 999
+      "weight_g": 997
     },
     {
       "name": "Silk Green",
@@ -408,5 +408,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-07T05:00:11Z"
+  "generated_at": "2026-11-07T05:30:19Z"
 }
