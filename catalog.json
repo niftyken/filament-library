@@ -55,7 +55,7 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#E45896",
-      "weight_g": 980
+      "weight_g": 976
     },
     {
       "name": "Orange",
@@ -408,5 +408,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-07T14:00:19Z"
+  "generated_at": "2026-11-07T22:30:19Z"
 }
