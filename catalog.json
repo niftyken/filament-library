@@ -55,7 +55,7 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#E45896",
-      "weight_g": 976
+      "weight_g": 972
     },
     {
       "name": "Orange",
@@ -349,7 +349,7 @@
       "brand": "Make Market",
       "material": "PLA",
       "color": "#A150F2",
-      "weight_g": 966
+      "weight_g": 965
     },
     {
       "name": "White Marble",
@@ -408,5 +408,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-07T22:30:19Z"
+  "generated_at": "2026-11-07T23:00:20Z"
 }
