@@ -342,7 +342,7 @@
       "brand": "Make Market",
       "material": "PLA",
       "color": "#59A8F8",
-      "weight_g": 984
+      "weight_g": 982
     },
     {
       "name": "Purple",
@@ -391,7 +391,7 @@
       "brand": "Sunlu",
       "material": "PLA",
       "color": "#33B3F4",
-      "weight_g": 996
+      "weight_g": 994
     },
     {
       "name": "Silk Green",
@@ -408,5 +408,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-07T07:30:19Z"
+  "generated_at": "2026-11-07T08:00:19Z"
 }
