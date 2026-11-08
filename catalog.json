@@ -370,7 +370,7 @@
       "brand": "Snapmaker",
       "material": "PLA",
       "color": "#E72F1D",
-      "weight_g": 381
+      "weight_g": 380
     },
     {
       "name": "SnapSpeed Yellow",
@@ -408,5 +408,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-07T23:30:19Z"
+  "generated_at": "2026-11-08T00:00:19Z"
 }
