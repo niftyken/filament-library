@@ -104,7 +104,7 @@
       "brand": "Hatchbox",
       "material": "PLA",
       "color": "#000000",
-      "weight_g": 279
+      "weight_g": 278
     },
     {
       "name": "Army Green",
@@ -377,7 +377,7 @@
       "brand": "Snapmaker",
       "material": "PLA",
       "color": "#F4C032",
-      "weight_g": 388
+      "weight_g": 386
     },
     {
       "name": "Light Gold",
@@ -408,5 +408,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-08T01:00:19Z"
+  "generated_at": "2026-11-08T01:30:19Z"
 }
