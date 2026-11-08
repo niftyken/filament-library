@@ -27,7 +27,7 @@
       "brand": "Anycubic",
       "material": "PLA",
       "color": "#FCFBFD",
-      "weight_g": 866
+      "weight_g": 864
     },
     {
       "name": "Beige",
@@ -104,7 +104,7 @@
       "brand": "Hatchbox",
       "material": "PLA",
       "color": "#000000",
-      "weight_g": 280
+      "weight_g": 279
     },
     {
       "name": "Army Green",
@@ -377,7 +377,7 @@
       "brand": "Snapmaker",
       "material": "PLA",
       "color": "#F4C032",
-      "weight_g": 392
+      "weight_g": 388
     },
     {
       "name": "Light Gold",
@@ -408,5 +408,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-08T00:30:19Z"
+  "generated_at": "2026-11-08T01:00:19Z"
 }
