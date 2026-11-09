@@ -328,7 +328,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "color": "#D9DFD7",
-      "weight_g": 996
+      "weight_g": 995
     },
     {
       "name": "SnapSpeed Black",
@@ -380,5 +380,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-09T11:00:19Z"
+  "generated_at": "2026-11-09T11:30:19Z"
 }
