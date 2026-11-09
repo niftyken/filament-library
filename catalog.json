@@ -1,5 +1,5 @@
 {
-  "spool_count": 58,
+  "spool_count": 59,
   "items": [
     {
       "name": "Blue",
@@ -359,6 +359,13 @@
       "weight_g": 1000
     },
     {
+      "name": "Panchroma Dual",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "color": "#D9DFD7",
+      "weight_g": 1000
+    },
+    {
       "name": "SnapSpeed Black",
       "brand": "Snapmaker",
       "material": "PLA",
@@ -408,5 +415,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-08T01:30:19Z"
+  "generated_at": "2026-11-09T09:00:19Z"
 }
