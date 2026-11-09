@@ -1,5 +1,5 @@
 {
-  "spool_count": 59,
+  "spool_count": 54,
   "items": [
     {
       "name": "Blue",
@@ -135,24 +135,10 @@
       "weight_g": 1000
     },
     {
-      "name": "Gray",
-      "brand": "iSanmate",
-      "material": "PETG",
-      "color": "#6A6868",
-      "weight_g": 1000
-    },
-    {
       "name": "Navy Blue",
       "brand": "iSanmate",
       "material": "PETG",
       "color": "#1D3255",
-      "weight_g": 1000
-    },
-    {
-      "name": "Orange",
-      "brand": "iSanmate",
-      "material": "PETG",
-      "color": "#F17619",
       "weight_g": 1000
     },
     {
@@ -226,13 +212,6 @@
       "weight_g": 990
     },
     {
-      "name": "Dark Blue",
-      "brand": "Kingroon",
-      "material": "PETG",
-      "color": "#0C2D7B",
-      "weight_g": 1000
-    },
-    {
       "name": "Gray",
       "brand": "Kingroon",
       "material": "PETG",
@@ -251,13 +230,6 @@
       "brand": "Kingroon",
       "material": "PETG",
       "color": "#3ECA76",
-      "weight_g": 1000
-    },
-    {
-      "name": "Green",
-      "brand": "Kingroon",
-      "material": "PLA",
-      "color": "#05BB69",
       "weight_g": 1000
     },
     {
@@ -331,13 +303,6 @@
       "weight_g": 1000
     },
     {
-      "name": "Yellow",
-      "brand": "Kingroon",
-      "material": "PETG",
-      "color": "#DFAF05",
-      "weight_g": 1000
-    },
-    {
       "name": "Light Blue Glitter",
       "brand": "Make Market",
       "material": "PLA",
@@ -363,7 +328,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "color": "#D9DFD7",
-      "weight_g": 1000
+      "weight_g": 999
     },
     {
       "name": "SnapSpeed Black",
@@ -415,5 +380,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-09T09:00:19Z"
+  "generated_at": "2026-11-09T09:30:19Z"
 }
