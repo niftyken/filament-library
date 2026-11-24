@@ -1,5 +1,5 @@
 {
-  "spool_count": 54,
+  "spool_count": 55,
   "items": [
     {
       "name": "Blue",
@@ -35,6 +35,13 @@
       "material": "PLA",
       "color": "#E0C9A6",
       "weight_g": 905
+    },
+    {
+      "name": "Brown",
+      "brand": "ELEGOO",
+      "material": "PLA",
+      "color": "#9E6A4B",
+      "weight_g": 999
     },
     {
       "name": "Cyan",
@@ -380,5 +387,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-10T00:00:19Z"
+  "generated_at": "2026-11-24T11:00:19Z"
 }
