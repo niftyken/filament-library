@@ -41,7 +41,7 @@
       "brand": "ELEGOO",
       "material": "PLA",
       "color": "#9E6A4B",
-      "weight_g": 999
+      "weight_g": 977
     },
     {
       "name": "Cyan",
@@ -387,5 +387,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-24T11:00:19Z"
+  "generated_at": "2026-11-24T11:30:16Z"
 }
