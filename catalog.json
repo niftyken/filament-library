@@ -41,7 +41,7 @@
       "brand": "ELEGOO",
       "material": "PLA",
       "color": "#9E6A4B",
-      "weight_g": 959
+      "weight_g": 958
     },
     {
       "name": "Cocoa",
@@ -401,5 +401,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-25T10:00:19Z"
+  "generated_at": "2026-11-25T10:30:19Z"
 }
