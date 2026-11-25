@@ -34,7 +34,7 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#E0C9A6",
-      "weight_g": 893
+      "weight_g": 892
     },
     {
       "name": "Brown",
@@ -48,7 +48,7 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#613F05",
-      "weight_g": 999
+      "weight_g": 998
     },
     {
       "name": "Cyan",
@@ -104,7 +104,7 @@
       "brand": "ELEGOO",
       "material": "PLA",
       "color": "#B19870",
-      "weight_g": 995
+      "weight_g": 991
     },
     {
       "name": "Yellow",
@@ -125,7 +125,7 @@
       "brand": "Hatchbox",
       "material": "PLA",
       "color": "#000000",
-      "weight_g": 278
+      "weight_g": 277
     },
     {
       "name": "Army Green",
@@ -401,5 +401,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-25T09:00:19Z"
+  "generated_at": "2026-11-25T09:30:19Z"
 }
