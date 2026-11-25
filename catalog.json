@@ -13,7 +13,7 @@
       "brand": "Anycubic",
       "material": "PLA",
       "color": "#1CC852",
-      "weight_g": 989
+      "weight_g": 987
     },
     {
       "name": "Red",
@@ -34,7 +34,7 @@
       "brand": "Elegoo",
       "material": "PLA",
       "color": "#E0C9A6",
-      "weight_g": 903
+      "weight_g": 900
     },
     {
       "name": "Brown",
@@ -387,5 +387,5 @@
       "weight_g": 950
     }
   ],
-  "generated_at": "2026-11-25T04:00:19Z"
+  "generated_at": "2026-11-25T04:30:19Z"
 }
